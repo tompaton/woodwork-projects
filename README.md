@@ -1,17 +1,27 @@
 ## woodwork-projects
 
-
 # 2021
 
 # Small box
 
-![small-box](photos/2021/small-box/20201230_145918.jpg)
-![small-box](photos/2021/small-box/20201230_145940.jpg)
-![small-box](photos/2021/small-box/20201230_150036.jpg)
+Scraper to cut rebates
+
+![scraper](photos/2021/small-box/20201230_145918.jpg)
+![scraper](photos/2021/small-box/20201230_145940.jpg)
+![rebates](photos/2021/small-box/20201230_150036.jpg)
+
+Before finishing
+
 ![small-box](photos/2021/small-box/20201230_150104.jpg)
-![small-box](photos/2021/small-box/20210101_163115.jpg)
 ![small-box](photos/2021/small-box/20210101_163129.jpg)
+
+Pucks to support during finishing
+
+![small-box](photos/2021/small-box/20210101_163115.jpg)
 ![small-box](photos/2021/small-box/20210101_170456.jpg)
+
+Finished result
+
 ![small-box](photos/2021/small-box/20210102_124351.jpg)
 
 
@@ -23,18 +33,25 @@
 ![tool-restoration](photos/2021/tool-restoration/20201120_133507.jpg)
 
 ## Saw
-## Brace
-![tool-restoration](photos/2021/tool-restoration/20210101_163138.jpg)
-![tool-restoration](photos/2021/tool-restoration/20210101_163212.jpg)
-![tool-restoration](photos/2021/tool-restoration/20210101_163227.jpg)
-![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
 
-![tool-restoration](photos/2021/tool-restoration/20210102_152726.jpg)
+![tool-restoration](photos/2021/tool-restoration/20210101_163212.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_154529.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_154540.jpg)
+
+## Brace
+
+![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
+![tool-restoration](photos/2021/tool-restoration/20210102_152726.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_155252.jpg)
+
+and shears
+
 ![tool-restoration](photos/2021/tool-restoration/20210102_161428.jpg)
 
+## Jack plane
+
+![tool-restoration](photos/2021/tool-restoration/20210101_163227.jpg)
+![tool-restoration](photos/2021/tool-restoration/20210101_163138.jpg)
 
 # 2020
 
@@ -142,8 +159,8 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 # Sand table
 
-![sand-table](photos/2020/sand-table/20200627_155257.jpg)
 ![sand-table](photos/2020/sand-table/20200627_155332.jpg)
+![sand-table](photos/2020/sand-table/20200627_155257.jpg)
 
 # Dollhouse doors
 
@@ -154,8 +171,8 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 # Trampoline steps
 
-![trampoline-ladder](photos/2020/trampoline-ladder/20200524_105319.jpg)
 ![trampoline-ladder](photos/2020/trampoline-ladder/20200524_105351.jpg)
+![trampoline-ladder](photos/2020/trampoline-ladder/20200524_105319.jpg)
 ![trampoline-ladder](photos/2020/trampoline-ladder/20200524_105407.jpg)
 ![trampoline-ladder](photos/2020/trampoline-ladder/20200527_165417.jpg)
 
@@ -172,23 +189,38 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 ![workbench](photos/2020/workbench/20200322_151659.jpg)
 ![workbench](photos/2020/workbench/20200329_164747.jpg)
-![workbench](photos/2020/workbench/20200329_164801.jpg)
+<!-- ![workbench](photos/2020/workbench/20200329_164801.jpg) -->
+
+Repurposed tv-cabinet as tool chest
 
 ![workbench](photos/2020/workbench/20200705_173118.jpg)
+
+Saw horse (Paul Sellers)
 
 ![workbench](photos/2020/workbench/20200801_152216.jpg)
 
 
 # Misc
 
+Small puzzles
+
 ![misc](photos/2020/misc/20200810_084116.jpg)
+
+"Couch caddy"
 
 ![misc](photos/2020/misc/20200708_081407.jpg)
 
+Stilts
+
 ![misc](photos/2020/misc/20200419_095029.jpg)
+
+Tic-tac-toe
 
 ![misc](photos/2020/misc/20200331_081110.jpg)
 
 # Nest box
 
 ![bird-box](photos/2020/bird-box/20200216_214418.jpg)
+
+
+<!-- TODO: add CAD models & renders -->
