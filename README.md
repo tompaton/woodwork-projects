@@ -75,6 +75,8 @@ and shears
 
 # Toilet paper box
 
+![cad model](cad/photo_2021-01-02_20-25-22.jpg)
+
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201017_212140.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201018_214142.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201022_174607.jpg)
@@ -121,6 +123,8 @@ and shears
 
 # Playing card box
 
+![cad model](cad/photo_2021-01-02_20-25-43.jpg)
+
 ![card-box](photos/2020/card-box/20200828_171514.jpg)
 ![card-box](photos/2020/card-box/20200828_171549.jpg)
 ![card-box](photos/2020/card-box/20200828_171608.jpg)
@@ -156,6 +160,11 @@ and shears
 Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 ![finished bridge model](https://tompaton.github.io/grandpa-amus-bridge/photos/20200822_103315.jpg)
+
+# "Couch caddy"
+
+![cad model](cad/photo_2021-01-02_20-25-49.jpg)
+![misc](photos/2020/misc/20200708_081407.jpg)
 
 # Sand table
 
@@ -206,9 +215,9 @@ Small puzzles
 
 ![misc](photos/2020/misc/20200810_084116.jpg)
 
-"Couch caddy"
+Pantry can shelf
 
-![misc](photos/2020/misc/20200708_081407.jpg)
+![cad model](cad/photo_2021-01-02_20-25-34.jpg)
 
 Stilts
 
@@ -221,6 +230,3 @@ Tic-tac-toe
 # Nest box
 
 ![bird-box](photos/2020/bird-box/20200216_214418.jpg)
-
-
-<!-- TODO: add CAD models & renders -->
