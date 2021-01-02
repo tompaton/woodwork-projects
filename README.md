@@ -42,11 +42,11 @@ Finished result
 
 ![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_152726.jpg)
-![tool-restoration](photos/2021/tool-restoration/20210102_155252.jpg)
+![tool-restoration](photos/2021/tool-restoration/20210102_161428.jpg)
 
 and shears
 
-![tool-restoration](photos/2021/tool-restoration/20210102_161428.jpg)
+![tool-restoration](photos/2021/tool-restoration/20210102_155252.jpg)
 
 ## Jack plane
 
@@ -119,7 +119,7 @@ and shears
 ![garden-planter](photos/2020/garden-planter/20200917_174244.jpg)
 ![garden-planter](photos/2020/garden-planter/20200917_174251.jpg)
 
-# Card box
+# Playing card box
 
 ![card-box](photos/2020/card-box/20200828_171514.jpg)
 ![card-box](photos/2020/card-box/20200828_171549.jpg)
@@ -191,7 +191,7 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 ![workbench](photos/2020/workbench/20200329_164747.jpg)
 <!-- ![workbench](photos/2020/workbench/20200329_164801.jpg) -->
 
-Repurposed tv-cabinet as tool chest
+Repurposed TV-cabinet as tool chest
 
 ![workbench](photos/2020/workbench/20200705_173118.jpg)
 
