@@ -1,6 +1,18 @@
 ## woodwork-projects
 
-# 2021
+## 2021
+
+# Loom
+
+![loom](photos/2021/loom/20210117_201514.jpg)
+![loom](photos/2021/loom/20210117_202221.jpg)
+
+# Utensil rack
+![utensil rack](photos/2021/utensil-rack/20210103_120205.jpg)
+![utensil rack](photos/2021/utensil-rack/20210103_173437.jpg)
+![utensil rack](photos/2021/utensil-rack/20210103_173508.jpg)
+![utensil rack](photos/2021/utensil-rack/20210114_163815.jpg)
+![utensil rack](photos/2021/utensil-rack/20210115_103427.jpg)
 
 # Small box
 
@@ -50,10 +62,23 @@ and shears
 
 ## Jack plane
 
-![tool-restoration](photos/2021/tool-restoration/20210101_163227.jpg)
-![tool-restoration](photos/2021/tool-restoration/20210101_163138.jpg)
+![jack plane](photos/2021/tool-restoration/20210101_163227.jpg)
+![jack plane](photos/2021/tool-restoration/20210101_163138.jpg)
 
-# 2020
+![jack plane](photos/2021/tool-restoration/20210114_145150.jpg)
+![jack plane](photos/2021/tool-restoration/20210126_124238.jpg)
+![jack plane](photos/2021/tool-restoration/20210126_153011.jpg)
+![jack plane](photos/2021/tool-restoration/20210126_160726.jpg)
+![jack plane](photos/2021/tool-restoration/20210126_164400.jpg)
+
+
+# Misc
+
+Strop
+
+![strop](photos/2021/misc/20210114_164454.jpg)
+
+## 2020
 
 # Corn holders
 
