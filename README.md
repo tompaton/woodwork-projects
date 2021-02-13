@@ -1,4 +1,4 @@
-## woodwork-projects
+## Woodwork Projects
 
 ## 2021
 
@@ -22,11 +22,14 @@ First, a scraper to cut rebates:
 
 ![scraper](photos/2021/small-box/20201230_145918.jpg)
 ![scraper](photos/2021/small-box/20201230_145940.jpg)
+
+Resawn reclaimed outdoor furniture timber (Merbau?)
+
 ![rebates](photos/2021/small-box/20201230_150036.jpg)
+![small-box](photos/2021/small-box/20201230_150104.jpg)
 
 Before finishing
 
-![small-box](photos/2021/small-box/20201230_150104.jpg)
 ![small-box](photos/2021/small-box/20210101_163129.jpg)
 
 Detour making pucks to support during finishing:
@@ -40,6 +43,8 @@ Finished result
 
 
 # Tool restoration
+
+Post de-rusting with molasses
 
 ![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
 
@@ -98,7 +103,7 @@ Strop
 
 # Corn holders
 
-Small nails smoothed then embedded in scraps of merbau during
+Small nails smoothed then embedded in scraps of Merbau during
 lamination, then shaped.
 
 ![corn-holders](photos/2020/corn-holders/20201223_083504.jpg)
@@ -112,7 +117,7 @@ Firewood (eucalyptus), carved, very heavy. Handle from an old garden stake.
 ![mallets](photos/2020/mallets/20201126_203421.jpg)
 ![mallets](photos/2020/mallets/20201126_203444.jpg)
 
-Lighter mallet from scrap of Oregon/Douglas fir.  Merbau handle.
+Lighter mallet from scrap of Oregon/Douglas Fir.  Merbau handle.
 
 ![mallets](photos/2020/mallets/20201205_174140.jpg)
 
@@ -126,7 +131,7 @@ Lighter mallet from scrap of Oregon/Douglas fir.  Merbau handle.
 
 ![cad model](cad/photo_2021-01-02_20-25-22.jpg)
 
-Jointing reclaimed timber from outdoor furniture on curved jig
+Jointing reclaimed outdoor furniture timber on curved jig
 
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201017_212140.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201018_214142.jpg)
