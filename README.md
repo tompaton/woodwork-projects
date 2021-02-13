@@ -2,7 +2,7 @@
 
 ## 2021
 
-# Loom
+# Embroidery scroll frame
 
 ![loom](photos/2021/loom/20210117_201514.jpg)
 ![loom](photos/2021/loom/20210117_202221.jpg)
@@ -14,9 +14,11 @@
 ![utensil rack](photos/2021/utensil-rack/20210114_163815.jpg)
 ![utensil rack](photos/2021/utensil-rack/20210115_103427.jpg)
 
+Paused project at this point...
+
 # Small box
 
-Scraper to cut rebates
+First, a scraper to cut rebates:
 
 ![scraper](photos/2021/small-box/20201230_145918.jpg)
 ![scraper](photos/2021/small-box/20201230_145940.jpg)
@@ -27,7 +29,7 @@ Before finishing
 ![small-box](photos/2021/small-box/20201230_150104.jpg)
 ![small-box](photos/2021/small-box/20210101_163129.jpg)
 
-Pucks to support during finishing
+Detour making pucks to support during finishing:
 
 ![small-box](photos/2021/small-box/20210101_163115.jpg)
 ![small-box](photos/2021/small-box/20210101_170456.jpg)
@@ -38,6 +40,8 @@ Finished result
 
 
 # Tool restoration
+
+![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
 
 ## Back saw
 
@@ -52,7 +56,6 @@ Finished result
 
 ## Brace
 
-![tool-restoration](photos/2021/tool-restoration/20210101_174948.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_152726.jpg)
 ![tool-restoration](photos/2021/tool-restoration/20210102_161428.jpg)
 
@@ -62,13 +65,26 @@ and shears
 
 ## Jack plane
 
-![jack plane](photos/2021/tool-restoration/20210101_163227.jpg)
-![jack plane](photos/2021/tool-restoration/20210101_163138.jpg)
+Cleaned lightly and oiled
 
+![jack plane](photos/2021/tool-restoration/20210101_163227.jpg)
+
+Shaping handle of laminated Tasmanian Oak
+
+![jack plane](photos/2021/tool-restoration/20210101_163138.jpg)
 ![jack plane](photos/2021/tool-restoration/20210114_145150.jpg)
 ![jack plane](photos/2021/tool-restoration/20210126_124238.jpg)
+
+Testing
+
 ![jack plane](photos/2021/tool-restoration/20210126_153011.jpg)
+
+Tweaking handle shape
+
 ![jack plane](photos/2021/tool-restoration/20210126_160726.jpg)
+
+Result
+
 ![jack plane](photos/2021/tool-restoration/20210126_164400.jpg)
 
 
@@ -82,14 +98,22 @@ Strop
 
 # Corn holders
 
+Small nails smoothed then embedded in scraps of merbau during
+lamination, then shaped.
+
 ![corn-holders](photos/2020/corn-holders/20201223_083504.jpg)
 ![corn-holders](photos/2020/corn-holders/20201223_083616.jpg)
 
 
 # Mallets
 
+Firewood (eucalyptus), carved, very heavy. Handle from an old garden stake.
+
 ![mallets](photos/2020/mallets/20201126_203421.jpg)
 ![mallets](photos/2020/mallets/20201126_203444.jpg)
+
+Lighter mallet from scrap of Oregon/Douglas fir.  Merbau handle.
+
 ![mallets](photos/2020/mallets/20201205_174140.jpg)
 
 
@@ -102,9 +126,17 @@ Strop
 
 ![cad model](cad/photo_2021-01-02_20-25-22.jpg)
 
+Jointing reclaimed timber from outdoor furniture on curved jig
+
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201017_212140.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201018_214142.jpg)
+
+Improvised drum sander to smooth inside
+
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201022_174607.jpg)
+
+Carved and finished
+
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201028_102514.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201028_102523.jpg)
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201028_102607_HDR.jpg)
@@ -112,6 +144,8 @@ Strop
 ![toilet-paper-box](photos/2020/toilet-paper-box/20201028_102741_HDR.jpg)
 
 # Carved box
+
+Resawn slats from bed base
 
 ![carved-box](photos/2020/carved-box/20200920_153222.jpg)
 ![carved-box](photos/2020/carved-box/20200920_155347.jpg)
@@ -121,16 +155,26 @@ Strop
 ![carved-box](photos/2020/carved-box/20200922_214326.jpg)
 ![carved-box](photos/2020/carved-box/20200923_220032.jpg)
 ![carved-box](photos/2020/carved-box/20200925_212252.jpg)
+
+Joinery on base was a bad idea
+
 ![carved-box](photos/2020/carved-box/20200925_212301.jpg)
+
+
 ![carved-box](photos/2020/carved-box/20200925_212310.jpg)
 ![carved-box](photos/2020/carved-box/20200925_212315.jpg)
 ![carved-box](photos/2020/carved-box/20200926_211211.jpg)
+
+Carved and finished
+
 ![carved-box](photos/2020/carved-box/20201003_155653.jpg)
 ![carved-box](photos/2020/carved-box/20201003_155659.jpg)
 ![carved-box](photos/2020/carved-box/20201003_155705.jpg)
 ![carved-box](photos/2020/carved-box/20201003_155711.jpg)
 
 # Small box
+
+Resawn pieces from reclaimed outdoor furniture
 
 ![small-box1](photos/2020/small-box1/20200917_213256.jpg)
 ![small-box1](photos/2020/small-box1/20200918_112726.jpg)
@@ -142,6 +186,8 @@ Strop
 
 # Garden planter
 
+Boards from reclaimed outdoor furniture
+
 ![garden-planter](photos/2020/garden-planter/20200801_152144.jpg)
 ![garden-planter](photos/2020/garden-planter/20200917_174244.jpg)
 ![garden-planter](photos/2020/garden-planter/20200917_174251.jpg)
@@ -150,34 +196,64 @@ Strop
 
 ![cad model](cad/photo_2021-01-02_20-25-43.jpg)
 
+Reclaimed timber from outdoor furniture (Merbau?)
+
 ![card-box](photos/2020/card-box/20200828_171514.jpg)
+
+Planing and jointing
 ![card-box](photos/2020/card-box/20200828_171549.jpg)
 ![card-box](photos/2020/card-box/20200828_171608.jpg)
 ![card-box](photos/2020/card-box/20200828_171637.jpg)
 ![card-box](photos/2020/card-box/20200829_131414.jpg)
+
+Cut to size
+
 ![card-box](photos/2020/card-box/20200829_134814.jpg)
 ![card-box](photos/2020/card-box/20200831_205752.jpg)
 ![card-box](photos/2020/card-box/20200831_214017.jpg)
 ![card-box](photos/2020/card-box/20200901_174142.jpg)
+
+Lid
+
 ![card-box](photos/2020/card-box/20200902_151059.jpg)
 ![card-box](photos/2020/card-box/20200902_215537.jpg)
 ![card-box](photos/2020/card-box/20200903_125531.jpg)
 ![card-box](photos/2020/card-box/20200903_212132.jpg)
 ![card-box](photos/2020/card-box/20200903_214445.jpg)
+
+Finishing
+
 ![card-box](photos/2020/card-box/20200905_113839.jpg)
+
+Dividers
+
 ![card-box](photos/2020/card-box/20200905_172255.jpg)
 ![card-box](photos/2020/card-box/20200905_172302.jpg)
 ![card-box](photos/2020/card-box/20200905_191829.jpg)
 ![card-box](photos/2020/card-box/20200905_211315.jpg)
 ![card-box](photos/2020/card-box/20200905_212518.jpg)
+
+Complete
+
 ![card-box](photos/2020/card-box/20200905_214606.jpg)
 ![card-box](photos/2020/card-box/20200905_214633.jpg)
+
+Filled
+
 ![card-box](photos/2020/card-box/20200906_090713.jpg)
 
 # Drill bit box
 
+Layout
+
 ![drill-box](photos/2020/drill-box/20200801_145935.jpg)
+
+Finishing
+
 ![drill-box](photos/2020/drill-box/20200810_083549.jpg)
+
+Filled
+
 ![drill-box](photos/2020/drill-box/20200812_131400.jpg)
 
 # [Grandpa Amu's Bridge](https://tompaton.github.io/grandpa-amus-bridge/)
@@ -212,6 +288,8 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 # Keyboard tray
 
+Retractable, tilting.
+
 ![keyboard-tray](photos/2020/keyboard-tray/20200413_154035.jpg)
 ![keyboard-tray](photos/2020/keyboard-tray/20200413_154059.jpg)
 ![keyboard-tray](photos/2020/keyboard-tray/20200413_154110.jpg)
@@ -220,6 +298,8 @@ Model of the traditional Chinese bridge constructed by Grandpa Amu.
 
 
 # Workbench upgrade
+
+Laminated construction pine top, vice.
 
 ![workbench](photos/2020/workbench/20200322_151659.jpg)
 ![workbench](photos/2020/workbench/20200329_164747.jpg)
@@ -248,10 +328,21 @@ Stilts
 
 ![misc](photos/2020/misc/20200419_095029.jpg)
 
-Tic-tac-toe
+Tic-tac-toe (made with Kate)
 
 ![misc](photos/2020/misc/20200331_081110.jpg)
 
 # Nest box
 
+Intended for rainbow lorikeets
+
 ![bird-box](photos/2020/bird-box/20200216_214418.jpg)
+
+# Shoe rack
+
+# Older projects
+
+## Dinosaur kitchen step
+
+## Knife rack
+
