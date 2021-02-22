@@ -2,6 +2,44 @@
 
 ## 2021
 
+# Keyboard table
+
+Folding table for sit-stand desk, reclaimed bed bits for frame
+
+![frame pieces](photos/2021/keyboard-table/20210213_181020.jpg)
+![dry fit](photos/2021/keyboard-table/20210213_181147.jpg)
+
+
+Reclaimed plywood top
+
+![glued](photos/2021/keyboard-table/20210214_212037.jpg)
+![folded](photos/2021/keyboard-table/20210214_212059.jpg)
+![leg detail](photos/2021/keyboard-table/20210214_212125.jpg)
+
+Leg braces, cut to height
+
+![leg brace](photos/2021/keyboard-table/20210220_102236.jpg)
+![leg brace](photos/2021/keyboard-table/20210220_102249.jpg)
+![leg brace](photos/2021/keyboard-table/20210220_125710.jpg)
+
+Oiled & waxed
+
+![folded](photos/2021/keyboard-table/20210220_125724.jpg)
+![front view](photos/2021/keyboard-table/20210220_125639.jpg)
+
+![keyboard table](photos/2021/keyboard-table/20210220_125621.jpg)
+
+# Acanthus carved box
+
+![box piecies](photos/2021/acanthus-box/20210130_222118.jpg)
+![glued](photos/2021/acanthus-box/20210131_214607.jpg)
+
+Carved & finished
+
+![acanthus carving](photos/2021/acanthus-box/20210220_163100.jpg)
+![back side](photos/2021/acanthus-box/20210220_163108.jpg)
+
+
 # Embroidery scroll frame
 
 ![loom](photos/2021/loom/20210117_201514.jpg)
@@ -347,7 +385,7 @@ Intended for rainbow lorikeets
 
 # Older projects
 
-## Dinosaur kitchen step
+## Dinosaur kitchen step (2013)
 
-## Knife rack
+## Knife rack (~1999)
 
