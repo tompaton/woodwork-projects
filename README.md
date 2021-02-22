@@ -4,7 +4,7 @@
 
 # Keyboard table
 
-Folding table for sit-stand desk, reclaimed bed bits for frame
+Folding table for sit-stand desk, reclaimed pine bed bits for frame
 
 ![frame pieces](photos/2021/keyboard-table/20210213_181020.jpg)
 ![dry fit](photos/2021/keyboard-table/20210213_181147.jpg)
@@ -16,11 +16,11 @@ Reclaimed plywood top
 ![folded](photos/2021/keyboard-table/20210214_212059.jpg)
 ![leg detail](photos/2021/keyboard-table/20210214_212125.jpg)
 
-Leg braces, cut to height
+Leg braces, legs cut to height
 
 ![leg brace](photos/2021/keyboard-table/20210220_102236.jpg)
 ![leg brace](photos/2021/keyboard-table/20210220_102249.jpg)
-![leg brace](photos/2021/keyboard-table/20210220_125710.jpg)
+<!-- ![leg brace](photos/2021/keyboard-table/20210220_125710.jpg) -->
 
 Oiled & waxed
 
