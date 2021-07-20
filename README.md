@@ -89,7 +89,7 @@ Experimenting with matching end-grain on all four corners.
 
 # Joined stool
 
-Inspired by Grandpa Amu again - https://www.youtube.com/watch?v=sUTiJ9mJ3RQ
+Inspired by [Grandpa Amu again](https://www.youtube.com/watch?v=sUTiJ9mJ3RQ)
 
 ![CAD model](cad/square-stool-cad-1.png)
 ![exploded](cad/square-stool-cad-2-exploded.png)
