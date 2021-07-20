@@ -2,6 +2,136 @@
 
 ## 2021
 
+# Twin boxes
+
+Pair of small dove-tailed boxes.
+
+![reclaimed merbau and pine](photos/2021/twin-boxes/20210624_170904.jpg)
+![cleaned up](photos/2021/twin-boxes/20210624_174242.jpg)
+![resawn, lots of tear-out](photos/2021/twin-boxes/20210626_220630.jpg)
+![cut to size](photos/2021/twin-boxes/20210627_214750.jpg)
+
+Box 1 - press-fit lid.
+
+![box 1](photos/2021/twin-boxes/20210702_110402.jpg)
+![open](photos/2021/twin-boxes/20210702_110421.jpg)
+
+Box 2 - hinged lid.
+
+![box 2](photos/2021/twin-boxes/20210717_104809.jpg)
+![hinges](photos/2021/twin-boxes/20210717_104822.jpg)
+![open](photos/2021/twin-boxes/20210717_104834.jpg)
+
+# Bookshelf drawers
+
+Original bookshelf drawers were spaced to hold CDs.
+Added small drawers for better storage options, and opened shelf for larger books.
+
+![reclaimed pine](photos/2021/bookshelf-drawers/20210531_221146.jpg)
+![slots for drawer bottoms](photos/2021/bookshelf-drawers/20210601_223522.jpg)
+![simple box joints](photos/2021/bookshelf-drawers/20210604_224117.jpg)
+![test fit](photos/2021/bookshelf-drawers/20210609_221000.jpg)
+![finished](photos/2021/bookshelf-drawers/20210619_104048.jpg)
+
+# "Bible" box
+
+Storage for large photo albums, coffee table books etc. and miscellaneous items
+in box draws/till.
+
+Frame is pinned with dowels (draw-bored), but not glued. Reclaimed pine from bed frames.
+
+![frame pieces](photos/2021/bible-box/20210413_140009.jpg)
+![resawn](photos/2021/bible-box/20210413_151246.jpg)
+![cleaned up](photos/2021/bible-box/20210413_172907.jpg)
+![resawn again](photos/2021/bible-box/20210416_213352.jpg)
+![bridle joints](photos/2021/bible-box/20210424_214838.jpg)
+![ready to assemble](photos/2021/bible-box/20210501_101615.jpg)
+![assembled](photos/2021/bible-box/20210501_152655.jpg)
+
+Box is dove-tailed, reclaimed pine from broken cabinet.
+
+![box pieces](photos/2021/bible-box/20210507_172547.jpg)
+![cleaned up](photos/2021/bible-box/20210508_103556.jpg)
+![till runners](photos/2021/bible-box/20210512_222633.jpg)
+![test fit](photos/2021/bible-box/20210514_223001.jpg)
+
+Sliding till.
+
+![sliding till frame](photos/2021/bible-box/20210518_221724.jpg)
+
+Drawers
+
+![drawers](photos/2021/bible-box/20210525_133938.jpg)
+
+Finished with water-based polyurethane.
+
+![finished](photos/2021/bible-box/20210531_111731.jpg)
+![open](photos/2021/bible-box/20210531_111807.jpg)
+
+![in use](photos/2021/bible-box/20210531_112442.jpg)
+
+# Mitred box
+
+Experimenting with matching end-grain on all four corners.
+
+![merbau](photos/2021/mitred-box/20210619_213609.jpg)
+![a lot of tear-out](photos/2021/mitred-box/20210619_223901.jpg)
+![finished](photos/2021/mitred-box/20210623_172242.jpg)
+![finished](photos/2021/mitred-box/20210623_172254.jpg)
+
+# Hairclip storage
+
+(with help from Alison)
+
+![frame pieces](photos/2021/hairclip-frame/20210610_223033.jpg)
+![canvas glued on](photos/2021/hairclip-frame/20210620_171300.jpg)
+![and in use](photos/2021/hairclip-frame/20210620_173138.jpg)
+
+# Joined stool
+
+Inspired by Grandpa Amu again - https://www.youtube.com/watch?v=sUTiJ9mJ3RQ
+
+TODO: add CAD model
+
+![seat pieces, rough](photos/2021/joined-stool/20210223_220313.jpg)
+![all pieces, rough](photos/2021/joined-stool/20210224_114404.jpg)
+![frame pieces, cleaned up](photos/2021/joined-stool/20210227_155548.jpg)
+![joinery for seat](photos/2021/joined-stool/20210302_221016.jpg)
+![frame glue-up](photos/2021/joined-stool/20210309_221707.jpg)
+![seat glue-up](photos/2021/joined-stool/20210312_173137.jpg)
+![mortises for legs](photos/2021/joined-stool/20210312_222350.jpg)
+![assembled](photos/2021/joined-stool/20210314_110212.jpg)
+![carving](photos/2021/joined-stool/20210329_223458.jpg)
+![finished](photos/2021/joined-stool/20210412_150244_HDR.jpg)
+
+
+# Saw horse
+
+2nd saw horse from Paul Sellers' design, wider top plank.
+
+![saw horse](photos/2021/saw-horse/20210508_220416.jpg)
+
+# Tissue box
+
+Box for a tissue box.  Attempt to interlock frame.
+Paused for now - joints were a little loose and it didn't quite fit together in
+a satisfying way yet.  Don't have a photo with the panels (ply) in place.
+
+![prototype](photos/2021/tissue-box/20210401_215500.jpg)
+![frame pieces](photos/2021/tissue-box/20210402_215519.jpg)
+![cutting slots for side panels](photos/2021/tissue-box/20210403_163511.jpg)
+![test assembly](photos/2021/tissue-box/20210405_115448.jpg)
+
+# Tool-chest till
+
+Sliding, removable till for tool chest.
+Sides dove-tailed to bottom to hopefully prevent it sagging.
+
+![parts](photos/2021/toolchest-till/20210327_165146.jpg)
+![assembled](photos/2021/toolchest-till/20210328_121213.jpg)
+
+
+
 # Keyboard table
 
 Folding table for sit-stand desk, reclaimed pine bed bits for frame
