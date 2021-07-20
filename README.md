@@ -91,15 +91,25 @@ Experimenting with matching end-grain on all four corners.
 
 Inspired by Grandpa Amu again - https://www.youtube.com/watch?v=sUTiJ9mJ3RQ
 
-TODO: add CAD model
+![CAD model](cad/square-stool-cad-1.png)
+![exploded](cad/square-stool-cad-2-exploded.png)
+
+![all pieces, rough](photos/2021/joined-stool/20210224_114404.jpg)
+
+Seat
 
 ![seat pieces, rough](photos/2021/joined-stool/20210223_220313.jpg)
-![all pieces, rough](photos/2021/joined-stool/20210224_114404.jpg)
-![frame pieces, cleaned up](photos/2021/joined-stool/20210227_155548.jpg)
 ![joinery for seat](photos/2021/joined-stool/20210302_221016.jpg)
-![frame glue-up](photos/2021/joined-stool/20210309_221707.jpg)
 ![seat glue-up](photos/2021/joined-stool/20210312_173137.jpg)
+
+Frame
+
+![frame pieces, cleaned up](photos/2021/joined-stool/20210227_155548.jpg)
+![frame glue-up](photos/2021/joined-stool/20210309_221707.jpg)
 ![mortises for legs](photos/2021/joined-stool/20210312_222350.jpg)
+
+Assembled
+
 ![assembled](photos/2021/joined-stool/20210314_110212.jpg)
 ![carving](photos/2021/joined-stool/20210329_223458.jpg)
 ![finished](photos/2021/joined-stool/20210412_150244_HDR.jpg)

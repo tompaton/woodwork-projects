@@ -1,0 +1,177 @@
+from math import pi
+from declaracad.occ.api import *
+
+EXPLODE = 0
+
+enamldef Origin(Sphere):
+    color = 'red'
+    display = False
+
+enamldef Wood(Box):
+    color = 'sandybrown'
+    transparency = 0.75        
+
+enamldef Top(Part):
+    attr explode = 0
+    Wood:
+        dx = 250-40
+        dy = 250
+        dz = 5
+        position = (45, 45, 5 + explode)
+    Wood:
+        dx = 250 - 40 + 20
+        dy = 40
+        dz = 10
+        position = (45 - 10, 250/2 + 45/2, -5 + explode)
+        
+
+enamldef Frame1(Part):
+    Fuse:
+        Cut:
+            Box:
+                dx = 50
+                dy = 340
+                dz = 25
+            Wedge:
+                dx = 50
+                dy = 50
+                dz = 25
+            Wedge:
+                dx = 50
+                dy = 50
+                dz = 25
+                rotation = 3*pi/2
+                position = (0, 340, 0)
+        # TODO: check tenon shapes
+        Wedge:
+            dx = 20
+            dy = 20
+            dz = 5
+            position = (5, 25, 15)
+        Wedge:
+            dx = 20
+            dy = 20
+            dz = 5
+            position = (25, 5, 15)
+        Wedge:
+            dx = 20
+            dy = 20
+            dz = 5
+            position = (5, 340 - 25, 15)
+            rotation = 3*pi/2
+        Wedge:
+            dx = 20
+            dy = 20
+            dz = 5
+            position = (25, 340 - 5, 15)
+            rotation = 3*pi/2
+
+enamldef Frame2(Part):
+    Box:
+        dx = 50
+        dy = 300
+        dz = 25
+        rotation = 3 * pi / 2
+        position = (0, 50, -10)
+
+enamldef Frame3(Part):
+    Frame1:
+            position = (250, 0, -10)
+    Frame1:
+        position = (50, 340, -10)
+        rotation = pi
+
+enamldef Frame4(Part):
+    Frame2: pass
+    Frame2:
+        rotation = pi
+        position = (250 + 50, 340, 0)
+
+enamldef Frame(Part):
+    Frame3: pass
+    Cut:
+        Frame4: pass
+        Frame3: pass
+
+enamldef Leg(Part):
+    Cylinder:
+        radius = 20
+        height = 250
+        position = (0, 0, -250)
+    # TODO: tenons
+
+enamldef Legs(Part):
+    Leg: position = (30, 30, 0)
+    Leg: position = (30 + 240, 30, 0)
+    Leg: position = (30 , 340 - 30, 0)
+    Leg: position = (30 + 240, 340 - 30, 0)
+
+enamldef Apron(Part):
+    attr explode = 0
+    Wood:
+        dx = 5
+        dy = 250
+        dz = 75
+        position = (-explode + 30-5/2, 30 + 15, -75 - 5)
+    Wood:
+        dx = 5
+        dy = 250
+        dz = 75
+        position = (explode + 240 + 30-5/2, 30 + 15, -75 - 5)
+    Wood:
+        dx = 250 - 40
+        dy = 5
+        dz = 75
+        position = (30+15, -explode + 30-5/2, -75 - 5)
+    Wood:
+        dx = 250 - 40
+        dy = 5
+        dz = 75
+        position = (30+15, explode + 250 + 30 + 30-5/2, -75 - 5)
+
+enamldef Spindles(Part):
+    attr explode = 0
+    Wood:
+        dx = 10
+        dz = 25
+        dy = 250 + 20
+        position = (-explode + 30-5, 30 + 15 - 10, -250 + 100)
+    Wood:
+        dx = 10
+        dz = 25
+        dy = 250 + 20
+        position = (explode + 240 + 30-5, 30 + 15 - 10, -250 + 100)
+    Wood:
+        dy = 10
+        dz = 25
+        dx = 250 + 20 - 40
+        position = (30 + 15 - 10, -explode + 30-5, -250 + 100)
+    Wood:
+        dy = 10
+        dz = 25
+        dx = 250 + 20 - 40
+        position = (30 + 15 - 10, explode + 240 + 30-5+40, -250 + 100)
+
+enamldef Stool(Part):
+    Cut:
+        Frame: pass
+        Top: pass
+        Legs: pass
+        Apron: pass
+        color = 'sandybrown'
+    Cut:
+        Legs: pass
+        Spindles: pass
+        Apron: pass
+        color = 'sandybrown'
+    Top: explode = EXPLODE
+    Spindles: explode = EXPLODE
+    Apron: explode = EXPLODE
+
+enamldef Assembly(Part):
+    Origin: pass
+    #Fuse:
+    Part:
+        Stool: pass
+        transparency = 0.75        
+        color = 'sandybrown'
