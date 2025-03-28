@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tompaton.com/woodwork-projects/sitemap.xml

@@ -1,0 +1,31 @@
+<svg width="1500" viewBox="0.0 0.0 500 334.4" xmlns="http://www.w3.org/2000/svg">
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="19.2,29.2 19.2,158.2 489.2,158.2 489.2,29.2" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="10.0,20.0 10.0,149.0 19.2,158.2 19.2,29.2" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="19.2,29.2 489.2,29.2 480.0,20.0 10.0,20.0" />
+<polygon fill="rgba(192,192,192,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="10.0,149.0 480.0,149.0 489.2,158.2 19.2,158.2" />
+<polygon fill="rgba(255,255,255,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="489.2,29.2 489.2,158.2 480.0,149.0 480.0,20.0" />
+<polygon fill="rgba(255,255,255,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="10.0,20.0 480.0,20.0 480.0,149.0 10.0,149.0" />
+<circle cx="150" cy="32.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="51.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<rect x="275" y="63.0" width="40" height="10.0" style="fill: none; stroke: orange; stroke-width: 1;" />
+<circle cx="150" cy="75.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="94.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="150" cy="118.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="137.0" r="5" stroke="orange" fill="white" stroke-width="1" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="19.2,187.4 19.2,316.4 489.2,316.4 489.2,187.4" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="10.0,178.2 10.0,307.2 19.2,316.4 19.2,187.4" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="2" stroke="gray" points="19.2,187.4 489.2,187.4 480.0,178.2 10.0,178.2" />
+<polygon fill="rgba(192,192,192,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="10.0,307.2 480.0,307.2 489.2,316.4 19.2,316.4" />
+<polygon fill="rgba(255,255,255,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="489.2,187.4 489.2,316.4 480.0,307.2 480.0,178.2" />
+<polygon fill="rgba(255,255,255,0.75)" stroke-width="1" stroke-dasharray="" stroke="black" points="10.0,178.2 480.0,178.2 480.0,307.2 10.0,307.2" />
+<circle cx="150" cy="190.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="209.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="150" cy="233.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="252.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="150" cy="276.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<circle cx="185" cy="295.2" r="5" stroke="orange" fill="white" stroke-width="1" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="3" stroke="green" points="284.0,149.0 215.5,30.4 78.5,30.4 10.0,149.0" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="3" stroke="green" points="416.0,138.6 484.5,20.0 210.6,20.0 279.1,138.6" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="3" stroke="green" points="215.5,296.8 284.0,178.2 10.0,178.2 78.5,296.8" />
+<polygon fill="none" stroke-width="1" stroke-dasharray="3" stroke="green" points="484.5,307.2 416.0,188.6 279.1,188.6 210.6,307.2" />
+</svg>
